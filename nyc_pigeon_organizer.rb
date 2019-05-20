@@ -7,5 +7,6 @@ def nyc_pigeon_organizer(data)
         newArray << {key, nil}
       end
     end
+    
     return(newArray)
 end
